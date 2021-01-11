@@ -1,1 +1,2 @@
-# workshop-material
+
+Current folder includes all files that are currently being used in one of the ICDS workshops.
